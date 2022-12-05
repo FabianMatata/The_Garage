@@ -1,4 +1,4 @@
 # The_Garage
 
 A website about an online automative garage.
-Man & machines.
+Man, tech & machines.
